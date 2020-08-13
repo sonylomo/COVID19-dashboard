@@ -1,4 +1,4 @@
-Link to the Project: https://covid-dashboard-kappa.vercel.app/
+Link to the Project: https://scamp-assesment-ogmwuo1s2.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
