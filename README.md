@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 Link to the Project: https://covid-dashboard-kappa.vercel.app/
 
-=======
-
-Link to the Project: https://covid-dashboard-kappa.vercel.app/
-
-                        
->>>>>>> cb52429bd1788cfcc59712b7c7397f25a081ab50
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
